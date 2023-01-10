@@ -1,0 +1,12 @@
+objectRepo\LoginPage.class
+objectRepo\AddProduct.class
+objectRepo\CartPage.class
+swaglabs\IAutoConstants.class
+objectRepo\Logout.class
+swaglabs\ReadData_propfile.class
+objectRepo\Address.class
+objectRepo\Homepage.class
+swaglabs\WebDriverUtil.class
+objectRepo\Payment.class
+swaglabs\TestDataCreation.class
+swaglabs\BaseClass.class
